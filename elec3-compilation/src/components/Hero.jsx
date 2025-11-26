@@ -14,6 +14,8 @@ function Hero({ documentCount }) {
           <span className="hero-title-accent">Finals Portfolio</span>
         </h1>
         
+        <p className="hero-author">Clement Harold Miguel Cabus • IV-ACSAD</p>
+        
         <p className="hero-description">
           A curated collection of assignments and laboratory activities 
           covering modern software development concepts including REST APIs, 
